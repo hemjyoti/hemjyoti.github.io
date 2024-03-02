@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student working at the [Robotics Systems Lab](https://www.acin.tuwien.ac.at/en/robotic-systems-lab/) of the Vienna University of Technology. My work focuses on developing controllers for suspended aerial robotic systems. My primary goal is utilizing underactuated aerial systems for task-prioritiation tasks such as physical aerial interaction with an unknown environment. Previously, I completed a MSc in Aerospace Engineering at the Delft University of technology, with a focus on control and simulation.
+I am a second year PhD student working at the [Robotics Systems Lab](https://www.acin.tuwien.ac.at/en/robotic-systems-lab/), working under the supervision of [Prof. Christian Ott](https://www.acin.tuwien.ac.at/en/staff/cott/). My work focuses on developing controllers for suspended aerial robotic systems. My primary goal is utilizing underactuated aerial systems for task-prioritiation tasks such as physical aerial interaction with an unknown environment. I am also interested in applying data-driven techniques to augment model-based whole body controllers (WBC), while guranteeing the passivity of the complete system.  Previously, I completed a MSc in Aerospace Engineering at the Delft University of technology, with a focus on control and simulation. 
 
 A data-driven personal website
 ======
