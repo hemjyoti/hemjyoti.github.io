@@ -1,15 +1,8 @@
 ---
-permalink: /
-title: "Hello there, I'm Hemjyoti !"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
-I am a second year PhD student working at the [Robotics Systems Lab](https://www.acin.tuwien.ac.at/en/robotic-systems-lab/), working under the supervision of [Prof. Christian Ott](https://www.acin.tuwien.ac.at/en/staff/cott/). My work focuses on developing controllers for suspended aerial robotic systems. My primary goal is utilizing underactuated aerial systems for task-prioritiation tasks such as physical aerial interaction with an unknown environment. I am also interested in applying data-driven techniques to augment model-based whole body controllers (WBC), while guranteeing the passivity of the complete system.  Previously, I completed a MSc in Aerospace Engineering at the Delft University of technology, with a focus on control and simulation. 
+Hi there ! I am a second year PhD student working at the [Robotics Systems Lab](https://www.acin.tuwien.ac.at/en/robotic-systems-lab/), under the supervision of [Prof. Christian Ott](https://www.acin.tuwien.ac.at/en/staff/cott/). My work focuses on developing passivity-based controllers for suspended aerial robotic systems. My primary goal is utilizing underactuated aerial systems for task-prioritiation tasks such as physical aerial interaction with an unknown environment. I am also interested in applying data-driven techniques to augment model-based whole body controllers (WBC).  Previously, I worked with [Prof. Antonio Franchi](https://homepages.laas.fr/afranchi/robotics/?q=front_page) as a research engineer on aerial manipulation. I completed a MSc in Aerospace Engineering from the Delft University of technology, with a specialization in control and simulation. 
 
-A data-driven personal website
+A data-driven personal websigte
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
