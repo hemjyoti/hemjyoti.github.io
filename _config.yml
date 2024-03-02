@@ -12,7 +12,7 @@ title                    : "Hemjyoti's Homepage"
 title_separator          : "-"
 name                     : &name "Hemjyoti Das"
 description              : &description "personal description"
-url                      : https:/hemjyoti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hemjyoti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hemjyoti/hemjyoti.github.io"
 
