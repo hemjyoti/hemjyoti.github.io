@@ -11,8 +11,11 @@ Hi there ! I am a second year PhD student working at the [Robotics Systems Lab](
 
 News
 ======
-- Accepter
-- fdfd
+- **Jan, 2024 :** My article got accepted for ICRA 2024 !
+- **June, 2023 :** My article got accepted for IROS 2023 !
+- **June, 2023 :** My article got accepted for IROS 2022 !
+- **Jan, 2022 :** My article got accepted for RAL and ICRA 2022 !
+- **Feb, 2021 :** My article got accepted for ECC 2021!
 
 Getting started
 ======
