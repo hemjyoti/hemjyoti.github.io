@@ -17,7 +17,7 @@ News
 - **Jan, 2022 :** My article got accepted for RAL and ICRA 2022 !
 - **Feb, 2021 :** My article got accepted for ECC 2021!
 
-Getting started
+Selected Publications
 ======
 - Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
