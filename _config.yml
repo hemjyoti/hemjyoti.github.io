@@ -24,7 +24,7 @@ author:
   avatar           : "Hemjyoti_Pic.jpg"
   name             : "Hemjyoti Das"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Researcher "|" Vienna University of technology "
+  bio              : "PhD Researcher" "\n" "Vienna University of technology "
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
