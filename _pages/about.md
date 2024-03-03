@@ -98,7 +98,7 @@ Experience
 Education
 ======
 ### PhD in Suspended Aerial Manipulation (2022 - present)
-- Vienna University of technology, Austria 
+- [![University Logo](/images/suspended_platform.png)](https://universitywebsite.com) Vienna University of technology, Austria 
 
 ### Master of Science in Aerospace Enginnering (2018 - 2020)
 -  Delft University of Technology, The Netherlands 
