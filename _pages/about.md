@@ -35,7 +35,7 @@ Selected Publications
 </div>
 
 <div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
-    <img src="/images/suspended_platform.png" alt="Project Image 2" style="width: 100%;">
+    <img src="/images/HILS.png" alt="Project Image 2" style="width: 100%;">
     <a href="https://ieeexplore.ieee.org/document/10342250" style="text-decoration: none; color: inherit;">
     <h3>Hardware-in-the-loop Simulation (HILS) of Vehicle Manipulator Systems (VMS) for Physical Interaction Tasks</h3>
     <p>2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </p>
