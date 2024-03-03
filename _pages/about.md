@@ -19,8 +19,34 @@ News
 
 Selected Publications
 ======
-**Observer-based Controller Design for Oscillation Damping of a Novel
-Suspended Underactuated Aerial Platform** 
+<div style="border: 1px solid #ccc; padding: 10px; display: flex;">
+
+<div style="flex: 50%; padding-right: 10px;">
+    <h3>Observed-based Controller Design for Oscillation Damping of a Novel Suspended Underactuated Aerial Platform</h3>
+    <p>(To Appear) ICRA 2024.</p>
+  
+</div>
+
+<div style="flex: 50%;">
+    <img src="/images/suspended_platform.png" alt="Project Image 1" style="max-width: 100%;">
+</div>
+
+</div>
+
+<div style="border: 1px solid #ccc; padding: 10px; display: flex;">
+
+<div style="flex: 50%; padding-right: 10px;">
+    <h3>Project Title 2</h3>
+    <p><strong>Description:</strong> Brief description of the project.</p>
+    <p><strong>Technologies/Tools:</strong> List of technologies or tools used in the project.</p>
+    <p><strong>Link:</strong> Link to the project repository or any relevant resources.</p>
+</div>
+
+<div style="flex: 50%;">
+    <img src="/images/Hemjyoti_Pic.jpg" alt="Project Image 2" style="max-width: 100%;">
+</div>
+
+</div>
 
 Experience
 ======
