@@ -86,6 +86,8 @@ Selected Publications
 </div>
 </div>
 
+<br>
+
 Experience
 ======
 -  **University Assistant** at Vienna University of technology, Austria (2022 - present)
@@ -96,11 +98,11 @@ Experience
 Education
 ======
 
-### PhD in Suspended Aerial Manipulation
-- **University Name**: Vienna University of technology, Austria (2022 - present)
+### PhD in Suspended Aerial Manipulation (2022 - present)
+- Vienna University of technology, Austria 
 
-### Master of Science in Aerospace Enginnering
-- **University Name**: Delft University of Technology, The Netherlands (2018 - 2020)
-- 
-### Bachelor of Science in Electrical Engineering
-- **University Name**: National Institute of Technology, Silchar, India (2012 - 2016)
+### Master of Science in Aerospace Enginnering (2018 - 2020)
+-  Delft University of Technology, The Netherlands 
+
+### Bachelor of Science in Electrical Engineering (2012 - 2016)
+-  National Institute of Technology, Silchar, India 
