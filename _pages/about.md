@@ -97,11 +97,6 @@ Experience
 
 Education
 ======
-### PhD in Suspended Aerial Manipulation (2022 - present)
-- [![University Logo](/images/suspended_platform.png)](https://universitywebsite.com) Vienna University of technology, Austria 
-
-### Master of Science in Aerospace Enginnering (2018 - 2020)
--  Delft University of Technology, The Netherlands 
-
-### Bachelor of Science in Electrical Engineering (2012 - 2016)
--  National Institute of Technology, Silchar, India 
+- **PhD in Suspended Aerial Manipulation** (2022 - present)
+- **Master of Science in Aerospace Enginnering** (2018 - 2020)
+- **Bachelor of Science in Electrical Engineering** (2012 - 2016)
