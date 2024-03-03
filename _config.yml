@@ -24,7 +24,9 @@ author:
   avatar           : "Hemjyoti_Pic.jpg"
   name             : "Hemjyoti Das"
   pronouns         : # example: "she/her"  
-  bio              : "Control Systems\nRobotics Systems Lab@TUWien"
+  bio              : |
+                     Control Systems
+                     Robotics Systems Lab@TUWien
   location         : "Vienna, Austria"
   employer         : "Vienna University of technology"
   uri              : # URL
