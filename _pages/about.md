@@ -23,19 +23,6 @@ News
 
 Selected Publications
 ======
-<div style="border: 1px solid #ccc; padding: 10px; display: flex;">
-
-<div style="flex: 50%; padding-right: 10px;">
-    <h3>Observed-based Controller Design for Oscillation Damping of a Novel Suspended Underactuated Aerial Platform</h3>
-    <p>(To Appear) ICRA 2024.</p>
-  
-</div>
-
-<div style="flex: 50%;">
-    <img src="/images/suspended_platform.png" alt="Project Image 1" style="max-width: 100%;">
-</div>
-
-</div>
 
 <div style="border: 1px solid #ccc; border-top: none; border-bottom: none;">
 <div style="display: flex;">
@@ -58,101 +45,70 @@ Selected Publications
 </div>
 
 
+<div style="border: 1px solid #ccc; border-top: none; border-bottom: none;">
+<div style="display: flex;">
+<div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
+    <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 100%;">
+    <h3>Observed-based Controller Design for Oscillation Damping of a Novel Suspended Underactuated Aerial Platform</h3>
+    <p>(To appear) ICRA 2024</p>
+    <p><strong>Paper</strong> <a href="[https://example.com](https://arxiv.org/abs/2401.17676)"></a></p>
 
-<div style="border: 1px solid #ccc; padding: 10px; display: flex;">
+</div>
 
-<div style="flex: 50%; padding-right: 10px;">
+<div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
+    <img src="/images/suspended_platform.png" alt="Project Image 2" style="width: 100%;">
     <h3>Project Title 2</h3>
     <p><strong>Description:</strong> Brief description of the project.</p>
     <p><strong>Technologies/Tools:</strong> List of technologies or tools used in the project.</p>
     <p><strong>Link:</strong> Link to the project repository or any relevant resources.</p>
 </div>
-
-<div style="flex: 50%;">
-    <img src="/images/Hemjyoti_Pic.jpg" alt="Project Image 2" style="max-width: 100%;">
+</div>
 </div>
 
+
+<div style="border: 1px solid #ccc; border-top: none; border-bottom: none;">
+<div style="display: flex;">
+<div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
+    <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 100%;">
+    <h3>Observed-based Controller Design for Oscillation Damping of a Novel Suspended Underactuated Aerial Platform</h3>
+    <p>(To appear) ICRA 2024</p>
+    <p><strong>Paper</strong> <a href="[https://example.com](https://arxiv.org/abs/2401.17676)"></a></p>
+
+</div>
+
+<div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
+    <img src="/images/suspended_platform.png" alt="Project Image 2" style="width: 100%;">
+    <h3>Project Title 2</h3>
+    <p><strong>Description:</strong> Brief description of the project.</p>
+    <p><strong>Technologies/Tools:</strong> List of technologies or tools used in the project.</p>
+    <p><strong>Link:</strong> Link to the project repository or any relevant resources.</p>
+</div>
+</div>
 </div>
 
 Experience
 ======
 
-<div style="display: flex;">
-
-<div style="flex: 50%; padding: 10px;">
-    <h3>Project Title 1</h3>
-    <p><strong>Description:</strong> Brief description of the project.</p>
-    <p><strong>Technologies/Tools:</strong> List of technologies or tools used in the project.</p>
-    <p><strong>Link:</strong> Link to the project repository or any relevant resources.</p>
-</div>
-
-<div style="flex:30%; padding: 5px; align: right;">
-    <img src="/images/suspended_platform.png" alt="Project Image 1"  style="max-width: 10%; height: auto;">
-</div>
-
-</div>
-
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 Education
 ======
-<div style="border: 1px solid #ccc; padding: 10px; display: flex;">
 
-<div style="flex: 50%; padding-right: 10px;">
-    <h3>Project Title 1</h3>
-    <p><strong>Description:</strong> Brief description of the project.</p>
-    <p><strong>Technologies/Tools:</strong> List of technologies or tools used in the project.</p>
-    <p><strong>Link:</strong> Link to the project repository or any relevant resources.</p>
-</div>
+### Master of Science in Computer Science
+- **University Name**: University of Example
+- **Location**: City, Country
+- **Year**: 20XX - 20XX
+- **Thesis Title**: Title of Thesis (if applicable)
+- *Description*: Brief description of the program or specialization.
 
-<div style="flex: 50%;">
-    <img src="/images/Hemjyoti_Pic.jpg" alt="Project Image 1" style="max-width: 100%;">
-</div>
+### Master of Science in Computer Science
+- **University Name**: University of Example
+- **Location**: City, Country
+- **Year**: 20XX - 20XX
+- **Thesis Title**: Title of Thesis (if applicable)
+- *Description*: Brief description of the program or specialization.
 
-</div>
-
-<div style="border: 1px solid #ccc; padding: 10px; display: flex;">
-
-<div style="flex: 50%; padding-right: 10px;">
-    <h3>Project Title 2</h3>
-    <p><strong>Description:</strong> Brief description of the project.</p>
-    <p><strong>Technologies/Tools:</strong> List of technologies or tools used in the project.</p>
-    <p><strong>Link:</strong> Link to the project repository or any relevant resources.</p>
-</div>
-
-<div style="flex: 50%;">
-    <img src="/images/Hemjyoti_Pic.jpg" alt="Project Image 2" style="max-width: 100%;">
-</div>
-
-</div>
-
-
-<div style="border: 1px solid #ccc; padding: 10px; overflow: hidden;">
-    <div style="float: left; width: 50%;">
-        <h3>Project Title 1</h3>
-        <p><strong>Description:</strong> Brief description of the project.</p>
-        <p><strong>Technologies/Tools:</strong> List of technologies or tools used in the project.</p>
-        <p><strong>Link:</strong> Link to the project repository or any relevant resources.</p>
-    </div>
-    <div style="float: right; width: 50%;">
-        <img src="/images/Hemjyoti_Pic.jpg" alt="Project Image 1" style="max-width: 100%;">
-    </div>
-</div>
-
-<div style="border: 1px solid #ccc; padding: 10px; overflow: hidden;">
-    <div style="float: left; width: 50%;">
-        <h3>Project Title 2</h3>
-        <p><strong>Description:</strong> Brief description of the project.</p>
-        <p><strong>Technologies/Tools:</strong> List of technologies or tools used in the project.</p>
-        <p><strong>Link:</strong> Link to the project repository or any relevant resources.</p>
-    </div>
-    <div style="float: right; width: 50%;">
-              <div style="max-width: 200px;">
-        <img src="/images/Hemjyoti_Pic.jpg" alt="Project Image 2" style="max-width: 100%;">
-              </div>
-    </div>
-</div>
+### Bachelor of Science in Information Technology
+- **University Name**: Another University
+- **Location**: City, Country
+- **Year**: 20XX - 20XX
+- *Description*: Brief description of the program or specialization.
