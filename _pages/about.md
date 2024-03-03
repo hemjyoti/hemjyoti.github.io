@@ -15,8 +15,8 @@ News
 - **Oct, 2023 :** I gave a talk at the Intelligent Robotics Seminar, TU Wien.
 - **April, 2023 :** I gave a talk at the Intelligent Robotics Seminar, TU Wien.
 - **June, 2023 :** My article got accepted for IROS 2023 !
-- **Nov, 2023 :** I gave a talk at the Intelligent Robotics Seminar, TU Wien.
-- **Aug, 2023 :** I joned as a Phd student at [Robotics Systems Lab](https://www.acin.tuwien.ac.at/en/robotic-systems-lab/).
+- **Nov, 2022 :** I gave a talk at the Intelligent Robotics Seminar, TU Wien.
+- **Aug, 2022 :** I joned as a Phd student at [Robotics Systems Lab](https://www.acin.tuwien.ac.at/en/robotic-systems-lab/).
 - **June, 2022 :** My article got accepted for IROS 2022 !
 - **Jan, 2022 :** My article got accepted for RAL and ICRA 2022 !
 - **Feb, 2021 :** My article got accepted for ECC 2021!
@@ -28,7 +28,8 @@ Selected Publications
 <div style="display: flex;">
 <div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
     <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 100%;">
-    <h3>[Observed-based Controller Design for Oscillation Damping of a Novel Suspended Underactuated Aerial Platform](https://www.acin.tuwien.ac.at/en/staff/cott/)</h3>
+    <a href="https://www.acin.tuwien.ac.at/en/staff/cott/" style="text-decoration: none; color: inherit;">
+    <h3>Observed-based Controller Design for Oscillation Damping of a Novel Suspended Underactuated Aerial Platform</h3>
     <p>(To appear) ICRA 2024</p>
 
 </div>
