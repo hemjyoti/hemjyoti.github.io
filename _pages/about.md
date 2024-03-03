@@ -24,7 +24,7 @@ News
 Selected Publications
 ======
 
-<div style="border: 1px solid #ccc; border-top: none; border-bottom: none;">
+<div style="border: 1px solid #ccc; border-top: 1px solid #ccc; border-bottom: none;">
 <div style="display: flex;">
 <div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
     <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 100%;">
