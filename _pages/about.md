@@ -97,7 +97,6 @@ Experience
 
 Education
 ======
-
 ### PhD in Suspended Aerial Manipulation (2022 - present)
 - Vienna University of technology, Austria 
 
