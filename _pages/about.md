@@ -28,16 +28,15 @@ Selected Publications
 <div style="display: flex;">
 <div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
     <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 100%;">
-    <h3>![Observed-based Controller Design for Oscillation Damping of a Novel Suspended Underactuated Aerial Platform](www.google.com)</h3>
+    <h3>[Observed-based Controller Design for Oscillation Damping of a Novel Suspended Underactuated Aerial Platform](https://www.acin.tuwien.ac.at/en/staff/cott/)</h3>
     <p>(To appear) ICRA 2024</p>
 
 </div>
 
 <div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
     <img src="/images/suspended_platform.png" alt="Project Image 2" style="width: 100%;">
-    <h3>Project Title 2</h3>
     <h3>hardware-in-the-loop Simulation of Vehicle Manipulator Systems (VMS) for Physical Interaction Tasks</h3>
-    <p>IROS 2023 <strong>Paper</strong> <a href="[https://example.com](https://arxiv.org/abs/2401.17676)"></a></p>
+    <p>IROS 2023 </p>
 
 
 </div>
@@ -50,7 +49,7 @@ Selected Publications
 <div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
     <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 100%;">
      <h3>Nonlinear model predictive control for human-robot handover with application to the aerial case</h3>
-     <p> RAL 2023 <strong>Paper</strong> <a href="[https://example.com](https://arxiv.org/abs/2401.17676)"></a></p>
+     <p> RAL 2023 </p>
 
 
 </div>
@@ -58,7 +57,7 @@ Selected Publications
 <div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
     <img src="/images/suspended_platform.png" alt="Project Image 2" style="width: 100%;">
      <h3>Motor-level N-MPC for cooperative active perception with multiple heterogeneous UAVs</h3>
-     <p>IROS 2022 <strong>Paper</strong> <a href="[https://example.com](https://arxiv.org/abs/2401.17676)"></a></p>
+     <p>IROS 2022 </p>
 
 
 </div>
@@ -71,14 +70,14 @@ Selected Publications
 <div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
     <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 100%;">
     <h3>Incremental Nonlinear Dynamic Inversion Control of Long-Stroke Pneumatic Actuators</h3>
-    <p> ECC 2021 <strong>Paper</strong> <a href="[https://example.com](https://arxiv.org/abs/2401.17676)"></a></p>
+    <p> ECC 2021</p>
 
 </div>
 
 <div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
     <img src="/images/suspended_platform.png" alt="Project Image 2" style="width: 100%;">
    <h3>Bio-inspired Landing of Quadrotor using Improved State Estimation</h3>
-    <p>IFAC-PapersOnLine <strong>Paper</strong> <a href="[https://example.com](https://arxiv.org/abs/2401.17676)"></a></p>
+    <p>IFAC-PapersOnLine</p>
 
 </div>
 </div>
