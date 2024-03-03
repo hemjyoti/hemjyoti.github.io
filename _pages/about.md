@@ -30,7 +30,7 @@ Selected Publications
     <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 100%;">
     <a href="https://arxiv.org/abs/2401.17676/" style="text-decoration: none; color: inherit;">
     <h3>Observed-based Controller Design for Oscillation Damping of a Novel Suspended Underactuated Aerial Platform</h3>
-    <p>(To appear) 2024 IEEE International Conference on Robotics and Automation (ICRA)</p>
+    <p>(To appear) 2024 IEEE International Conference on Robotics and Automation </p>
     </a>
 </div>
 
