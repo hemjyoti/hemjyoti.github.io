@@ -12,8 +12,11 @@ Hi there ! I am a second year PhD student working at the [Robotics Systems Lab](
 News
 ======
 - **Jan, 2024 :** My article got accepted for ICRA 2024 !
+- **Oct, 2023 :** I gave a talk at the Intelligent Robotics Seminar, TU Wien.
+- **April, 2023 :** I gave a talk at the Intelligent Robotics Seminar, TU Wien.
 - **June, 2023 :** My article got accepted for IROS 2023 !
-- **Aug, 2023 :** I joned as a Phd student at [Robotics Systems Lab](https://www.acin.tuwien.ac.at/en/robotic-systems-lab/) !
+- **Nov, 2023 :** I gave a talk at the Intelligent Robotics Seminar, TU Wien.
+- **Aug, 2023 :** I joned as a Phd student at [Robotics Systems Lab](https://www.acin.tuwien.ac.at/en/robotic-systems-lab/).
 - **June, 2022 :** My article got accepted for IROS 2022 !
 - **Jan, 2022 :** My article got accepted for RAL and ICRA 2022 !
 - **Feb, 2021 :** My article got accepted for ECC 2021!
