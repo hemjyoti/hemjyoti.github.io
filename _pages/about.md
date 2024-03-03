@@ -28,9 +28,8 @@ Selected Publications
 <div style="display: flex;">
 <div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
     <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 100%;">
-    <h3>Observed-based Controller Design for Oscillation Damping of a Novel Suspended Underactuated Aerial Platform</h3>
+    <h3>![Observed-based Controller Design for Oscillation Damping of a Novel Suspended Underactuated Aerial Platform](www.google.com)</h3>
     <p>(To appear) ICRA 2024</p>
-    <p><strong>Paper</strong> <a href="[https://example.com](https://arxiv.org/abs/2401.17676)"></a></p>
 
 </div>
 
