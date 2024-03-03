@@ -33,9 +33,9 @@ Selected Publications
 
 </div>
 
+<div style="border: 1px solid #ccc; border-top: none; border-bottom: none;">
 <div style="display: flex;">
-
-<div style="flex: 50%; padding: 10px;">
+<div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
     <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 100%;">
     <h3>Project Title 1</h3>
     <p><strong>Description:</strong> Brief description of the project.</p>
@@ -43,14 +43,14 @@ Selected Publications
     <p><strong>Link:</strong> Link to the project repository or any relevant resources.</p>
 </div>
 
-<div style="flex: 50%; padding: 10px;">
+<div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
     <img src="/images/suspended_platform.png" alt="Project Image 2" style="width: 100%;">
     <h3>Project Title 2</h3>
     <p><strong>Description:</strong> Brief description of the project.</p>
     <p><strong>Technologies/Tools:</strong> List of technologies or tools used in the project.</p>
     <p><strong>Link:</strong> Link to the project repository or any relevant resources.</p>
 </div>
-
+</div>
 </div>
 
 
