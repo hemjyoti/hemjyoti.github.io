@@ -45,7 +45,7 @@ Selected Publications
 </div>
 
 
-<div style="border: 1px solid #ccc; border-top: none; border-bottom: none;">
+<div style="border: 1px solid #ccc;  border-top: 1px solid #ccc; border-bottom: none;">
 <div style="display: flex;">
 <div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
     <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 100%;">
@@ -66,7 +66,7 @@ Selected Publications
 </div>
 
 
-<div style="border: 1px solid #ccc; border-top: none; border-bottom: none;">
+<div style="border: 1px solid #ccc;  border-top: 1px solid #ccc;  border-bottom: 1px solid #ccc;">
 <div style="display: flex;">
 <div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
     <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 100%;">
@@ -88,27 +88,19 @@ Selected Publications
 
 Experience
 ======
+-  **University Assistant** at Vienna University of technology, Austria (2022 - present)
+-  **Research Engineer** at University of Twente, The Netherlands (2020 - 2022)
+-  **Internship** at German Aerospace Center (DLR) (2019)
 
 
 Education
 ======
 
-### Master of Science in Computer Science
-- **University Name**: University of Example
-- **Location**: City, Country
-- **Year**: 20XX - 20XX
-- **Thesis Title**: Title of Thesis (if applicable)
-- *Description*: Brief description of the program or specialization.
+### PhD in Suspended Aerial Manipulation
+- **University Name**: Vienna University of technology, Austria (2022 - present)
 
-### Master of Science in Computer Science
-- **University Name**: University of Example
-- **Location**: City, Country
-- **Year**: 20XX - 20XX
-- **Thesis Title**: Title of Thesis (if applicable)
-- *Description*: Brief description of the program or specialization.
-
-### Bachelor of Science in Information Technology
-- **University Name**: Another University
-- **Location**: City, Country
-- **Year**: 20XX - 20XX
-- *Description*: Brief description of the program or specialization.
+### Master of Science in Aerospace Enginnering
+- **University Name**: Delft University of Technology, The Netherlands (2018 - 2020)
+- 
+### Bachelor of Science in Electrical Engineering
+- **University Name**: National Institute of Technology, Silchar, India (2012 - 2016)
