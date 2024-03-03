@@ -90,16 +90,16 @@ Selected Publications
 
 Experience
 ======
--  **University Assistant** at Vienna University of technology, Austria (2022 - present)
+-  **University Assistant** at Vienna University of Technology, Austria (2022 - present)
 -  **Research Engineer** at University of Twente, The Netherlands (2020 - 2022)
--  **Internship** at German Aerospace Center (DLR) (2019)
--  **Project Engineer** at Indian Institute of Science (IISc) (2017-2018)
--  **Project Engineer** at Indian Institute of technology, Bombay (IITB) (2016)
+-  **Internship** at German Aerospace Center (DLR), Germany (2019)
+-  **Project Engineer** at Indian Institute of Science (IISc), India (2017-2018)
+-  **Project Engineer** at Indian Institute of technology, Bombay (IITB), India (2016)
 
 
 
 Education
 ======
-- **PhD in Suspended Aerial Manipulation** (2022 - present)
-- **Master of Science in Aerospace Enginnering** (2018 - 2020)
-- **Bachelor of Science in Electrical Engineering** (2012 - 2016)
+- **PhD in Suspended Aerial Manipulation** from Vienna University of Technology, Austria (2022 - present)
+- **Master of Science in Aerospace Enginnering** from Delft University of Technology, The Netherlannds (2018 - 2020)
+- **Bachelor of Science in Electrical Engineering** from National Institute of Technology, Silchar, India (2012 - 2016)
