@@ -27,7 +27,7 @@ Selected Publications
 <div style="border: 1px solid #ccc; border-top: 1px solid #ccc; border-bottom: none;">
 <div style="display: flex;">
 <div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
-    <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 100%;">
+    <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 70%;">
     <a href="https://arxiv.org/abs/2401.17676/" style="text-decoration: none; color: inherit;">
     <h3>Observed-based Controller Design for Oscillation Damping of a Novel Suspended Underactuated Aerial Platform</h3>
     <p>(To appear) 2024 IEEE International Conference on Robotics and Automation </p>
@@ -35,7 +35,7 @@ Selected Publications
 </div>
 
 <div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
-    <img src="/images/HILS.png" alt="Project Image 2" style="width: 70%;">
+    <img src="/images/HILS.png" alt="Project Image 2" style="width: 100%;">
     <a href="https://ieeexplore.ieee.org/document/10342250" style="text-decoration: none; color: inherit;">
     <h3>Hardware-in-the-loop Simulation (HILS) of Vehicle Manipulator Systems (VMS) for Physical Interaction Tasks</h3>
     <p>2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </p>
