@@ -51,6 +51,9 @@ Selected Publications
     <p><strong>Link:</strong> Link to the project repository or any relevant resources.</p>
 </div>
 
+</div>
+
+
 
 <div style="border: 1px solid #ccc; padding: 10px; display: flex;">
 
