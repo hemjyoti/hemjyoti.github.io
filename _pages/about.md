@@ -31,7 +31,7 @@ Selected Publications
     <a href="https://www.acin.tuwien.ac.at/en/staff/cott/" style="text-decoration: none; color: inherit;">
     <h3>Observed-based Controller Design for Oscillation Damping of a Novel Suspended Underactuated Aerial Platform</h3>
     <p>(To appear) ICRA 2024</p>
-
+    </a>
 </div>
 
 <div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
