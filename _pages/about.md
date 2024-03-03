@@ -13,7 +13,8 @@ News
 ======
 - **Jan, 2024 :** My article got accepted for ICRA 2024 !
 - **June, 2023 :** My article got accepted for IROS 2023 !
-- **June, 2023 :** My article got accepted for IROS 2022 !
+- **Aug, 2023 :** I joned as a Phd student at [Robotics Systems Lab](https://www.acin.tuwien.ac.at/en/robotic-systems-lab/) !
+- **June, 2022 :** My article got accepted for IROS 2022 !
 - **Jan, 2022 :** My article got accepted for RAL and ICRA 2022 !
 - **Feb, 2021 :** My article got accepted for ECC 2021!
 
