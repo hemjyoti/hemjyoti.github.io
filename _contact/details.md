@@ -1,14 +1,20 @@
-**Hemjyoti Das**
+---
+title: "Teaching experience 1"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
+---
 
-**hemjyoti DOT das AT tuwien DOT ac DOT at**
+This is a description of a teaching experience. You can use markdown like any other post.
 
-**Automation and Control Institute (ACIN)**
+Heading 1
+======
 
-**Electrical Engineering and Information Technology**
+Heading 2
+======
 
-**Vienna University of Technology** 
-
-**Room CD0419, Gußhausstraße 27-29, 1040 Wien**
-
-**Austria**
-
+Heading 3
+======
