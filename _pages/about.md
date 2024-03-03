@@ -93,6 +93,9 @@ Experience
 -  **University Assistant** at Vienna University of technology, Austria (2022 - present)
 -  **Research Engineer** at University of Twente, The Netherlands (2020 - 2022)
 -  **Internship** at German Aerospace Center (DLR) (2019)
+-  **Project Engineer** at Indian Institute of Science (IISc) (2017-2018)
+-  **Project Engineer** at Indian Institute of technology, Bombay (IITB) (2016)
+
 
 
 Education
