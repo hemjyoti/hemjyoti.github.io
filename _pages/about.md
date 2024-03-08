@@ -83,7 +83,7 @@ Selected Publications
 </div>
 
 <div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
-    <img src="/images/suspended_platform.png" alt="Project Image 2" style="width: 100%;">
+    <img src="/images/landing.png" alt="Project Image 2" style="width: 100%;">
        <a href="https://ieeexplore.ieee.org/document/9654927" style="text-decoration: none; color: inherit;">
    <h3>Bio-inspired Landing of Quadrotor using Improved State Estimation</h3>
     <p>IFAC-PapersOnLine</p>
