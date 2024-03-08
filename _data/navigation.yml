@@ -3,11 +3,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/
-    
   - title: "CV"
     url: /files/CV.pdf 
-
-  - title: "Contact"
-    url: /contact/
