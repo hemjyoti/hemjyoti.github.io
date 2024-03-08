@@ -60,7 +60,7 @@ Selected Publications
 </div>
 
 <div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
-    <img src="/images/heterogeneous_NMPC.png" alt="Project Image 2" style="width: 80%;">
+    <img src="/images/heterogeneous_NMPC.png" alt="Project Image 2" style="width: 75%;">
      <a href="https://ieeexplore.ieee.org/document/9682606" style="text-decoration: none; color: inherit;">
      <h3>Motor-level N-MPC for cooperative active perception with multiple heterogeneous UAVs</h3>
      <p>IEEE Robotics and Automation Letters</p>
@@ -74,7 +74,7 @@ Selected Publications
 <div style="border: 1px solid #ccc;  border-top: 1px solid #ccc;  border-bottom: 1px solid #ccc;">
 <div style="display: flex;">
 <div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
-    <img src="/images/ECC_photo.png" alt="Project Image 1" style="width: 90%;">
+    <img src="/images/ECC_photo.png" alt="Project Image 1" style="width: 100%;">
          <a href="https://ieeexplore.ieee.org/document/9654927" style="text-decoration: none; color: inherit;">  
     <h3>Incremental Nonlinear Dynamic Inversion Control of Long-Stroke Pneumatic Actuators</h3>
     <p> 2021 European Control Conference (ECC)</p>
@@ -83,7 +83,7 @@ Selected Publications
 </div>
 
 <div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
-    <img src="/images/landing.png" alt="Project Image 2" style="width: 80%;">
+    <img src="/images/landing.png" alt="Project Image 2" style="width: 75%;">
        <a href="https://ieeexplore.ieee.org/document/9654927" style="text-decoration: none; color: inherit;">
    <h3>Bio-inspired Landing of Quadrotor using Improved State Estimation</h3>
     <p>IFAC-PapersOnLine</p>
