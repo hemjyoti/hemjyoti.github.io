@@ -97,7 +97,7 @@ Selected Publications
 
 Experience
 ======
--  **University Assistant** at Vienna University of Technology, Austria (2022 - present)
+-  **PhD Researcher** at Vienna University of Technology, Austria (2022 - present)
 -  **Research Engineer** at University of Twente, The Netherlands (2020 - 2022)
 -  **Research Internship** at German Aerospace Center (DLR), Germany (2019)
 -  **Project Engineer** at Indian Institute of Science (IISc), India (2017-2018)
