@@ -50,7 +50,7 @@ Selected Publications
 <div style="border: 1px solid #ccc;  border-top: 1px solid #ccc; border-bottom: none;">
 <div style="display: flex;">
 <div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
-    <img src="/images/physical_interaction.png" alt="Project Image 1" style="width: 100%;">
+    <img src="/images/physical_interaction.png" alt="Project Image 1" style="width: 85%;">
       <a href="https://ieeexplore.ieee.org/document/9981045" style="text-decoration: none; color: inherit;">
      <h3>Nonlinear model predictive control for human-robot handover with application to the aerial case</h3>
      <p> 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p>
@@ -74,7 +74,7 @@ Selected Publications
 <div style="border: 1px solid #ccc;  border-top: 1px solid #ccc;  border-bottom: 1px solid #ccc;">
 <div style="display: flex;">
 <div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
-    <img src="/images/ECC_photo.png" alt="Project Image 1" style="width: 100%;">
+    <img src="/images/ECC_photo.png" alt="Project Image 1" style="width: 90%;">
          <a href="https://ieeexplore.ieee.org/document/9654927" style="text-decoration: none; color: inherit;">  
     <h3>Incremental Nonlinear Dynamic Inversion Control of Long-Stroke Pneumatic Actuators</h3>
     <p> 2021 European Control Conference (ECC)</p>
