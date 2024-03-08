@@ -27,7 +27,7 @@ Selected Publications
 <div style="border: 1px solid #ccc; border-top: 1px solid #ccc; border-bottom: none;">
 <div style="display: flex;">
 <div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
-    <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 70%;">
+    <img src="/images/suspended_platform.png" alt="Project Image 1" style="width: 67%;">
     <a href="https://arxiv.org/abs/2401.17676/" style="text-decoration: none; color: inherit;">
     <h3>Observed-based Controller Design for Oscillation Damping of a Novel Suspended Underactuated Aerial Platform</h3>
     <p>(To appear) IEEE International Conference on Robotics and Automation, 2024</p>
@@ -97,7 +97,7 @@ Selected Publications
 
 Experience
 ======
--  **PhD Researcher** at Vienna University of Technology, Austria (2022 - present)
+-  **PhD Researcher** at Vienna University of Technology, Austria (2022 - Present)
 -  **Research Engineer** at University of Twente, The Netherlands (2020 - 2022)
 -  **Research Internship** at German Aerospace Center (DLR), Germany (2019)
 -  **Project Engineer** at Indian Institute of Science, India (2017-2018)
@@ -107,6 +107,6 @@ Experience
 
 Education
 ======
-- **PhD in Aerial Robotics and Control** from Vienna University of Technology, Austria (2022 - present)
+- **PhD in Aerial Robotics and Control** from Vienna University of Technology, Austria (2022 - Present)
 - **Master of Science in Aerospace Enginnering** from Delft University of Technology, The Netherlannds (2018 - 2020)
 - **Bachelor of Science in Electrical Engineering** from National Institute of Technology, Silchar, India (2012 - 2016)
