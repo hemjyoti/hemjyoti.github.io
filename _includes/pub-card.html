@@ -8,8 +8,6 @@
                  autoplay muted loop playsinline preload="metadata"></video>
         {% elsif p.thumbnail %}
           <img src="{{ base_path }}{{ p.thumbnail }}" alt="" loading="lazy" class="contain">
-        {% else %}
-          <div class="placeholder">{{ p.venue_short }}<span>{{ year }}</span></div>
         {% endif %}
       </div>
 
