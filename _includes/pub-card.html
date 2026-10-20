@@ -1,6 +1,6 @@
 {% assign year = p.date | date: "%Y" %}
 {% assign author_list = p.authors | split: ", " %}
-    <article class="pub" data-year="{{ p.date | date: '%Y%m%d' }}" data-cites="{{ p.citations | default: 0 }}"
+    <article class="pub{% unless p.thumbnail_video or p.thumbnail %} pub--nothumb{% endunless %}" data-year="{{ p.date | date: '%Y%m%d' }}" data-cites="{{ p.citations | default: 0 }}"
              data-venue="{{ p.venue_short }}" data-topics="{{ p.topics | join: '|' }}">
       <div class="pub-thumb">
         {% if p.thumbnail_video %}
