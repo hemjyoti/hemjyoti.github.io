@@ -24,116 +24,36 @@ News
 Selected Publications
 ======
 
-<div style="border: 1px solid #ccc; border-top: 1px solid #ccc; border-bottom: none;">
-<div style="display: flex;">
-<div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
-    <video src="/videos/IROS26_swingup_grasp.mp4" poster="/videos/IROS26_swingup_grasp.jpg" autoplay muted loop playsinline preload="metadata" style="width: 100%; border-radius: 4px;"></video>
-    <h3>Energy-based Swing-up and Grasping Maneuver using Suspended Aerial Manipulator</h3>
-    <p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026</p>
+{% include base_path %}
+{% include pub-styles.html %}
+{% assign selected_pubs = site.publications | where: "selected", true | sort: "date" | reverse %}
+<div class="pubs pubs-selected">
+{% for p in selected_pubs %}
+{% include pub-card.html %}
+{% endfor %}
+<p style="margin-top:1em;"><a href="{{ base_path }}/publications/" style="color:#b509ac;text-decoration:none;font-weight:700;">See the full list of publications &rarr;</a></p>
 </div>
 
-<div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
-    <video src="/videos/TASE_whole_body.mp4" poster="/videos/TASE_whole_body.jpg" autoplay muted loop playsinline preload="metadata" style="width: 100%; border-radius: 4px;"></video>
-    <a href="https://doi.org/10.1109/TASE.2025.3588767" style="text-decoration: none; color: inherit;">
-    <h3>Whole-Body Stabilization of a Cable-Suspended Multirotor Platform Carrying a Slung Load</h3>
-    <p>IEEE Transactions on Automation Science and Engineering (T-ASE), 2025</p>
-    </a>
-</div>
-</div>
-</div>
-
-
-<div style="border: 1px solid #ccc; border-top: 1px solid #ccc; border-bottom: none;">
-<div style="display: flex;">
-<div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
-    <video src="/videos/IROS25_PFL.mp4" poster="/videos/IROS25_PFL.jpg" autoplay muted loop playsinline preload="metadata" style="width: 100%; border-radius: 4px;"></video>
-    <a href="https://doi.org/10.1109/IROS60139.2025.11246409" style="text-decoration: none; color: inherit;">
-    <h3>Partial Feedback Linearization Control of a Cable-Suspended Multirotor Platform for Stabilization of an Attached Load</h3>
-    <p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</p>
-    </a>
-</div>
-
-<div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
-    <video src="/videos/IFAC25_swingup_RL.mp4" poster="/videos/IFAC25_swingup_RL.jpg" autoplay muted loop playsinline preload="metadata" style="width: 100%; border-radius: 4px;"></video>
-    <a href="https://doi.org/10.1016/j.ifacol.2025.10.207" style="text-decoration: none; color: inherit;">
-    <h3>Learning Swing-up Maneuvers for a Suspended Aerial Manipulation Platform in a Hierarchical Control Framework</h3>
-    <p>IFAC-PapersOnLine, 2025</p>
-    </a>
-</div>
-</div>
-</div>
-
-
-<div style="border: 1px solid #ccc; border-top: 1px solid #ccc; border-bottom: none;">
-<div style="display: flex;">
-<div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
-    <video src="/videos/ICRA24_oscillation_damping.mp4" poster="/videos/ICRA24_oscillation_damping.jpg" autoplay muted loop playsinline preload="metadata" style="width: 100%; border-radius: 4px;"></video>
-    <a href="https://arxiv.org/abs/2401.17676/" style="text-decoration: none; color: inherit;">
-    <h3>Observer-based Controller Design for Oscillation Damping of a Novel Suspended Underactuated Aerial Platform</h3>
-    <p>IEEE International Conference on Robotics and Automation (ICRA), 2024</p>
-    </a>
-</div>
-
-<div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
-    <img src="/images/HILS.png" alt="Project Image 2" style="width: 100%;">
-    <a href="https://ieeexplore.ieee.org/document/10342250" style="text-decoration: none; color: inherit;">
-    <h3>Hardware-in-the-loop Simulation (HILS) of Vehicle Manipulator Systems (VMS) for Physical Interaction Tasks</h3>
-    <p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023</p>
-    </a>
-
-
-</div>
-</div>
-</div>
-
-
-<div style="border: 1px solid #ccc;  border-top: 1px solid #ccc; border-bottom: none;">
-<div style="display: flex;">
-<div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
-    <img src="/images/physical_interaction.png" alt="Project Image 1" style="width: 100%;">
-      <a href="https://ieeexplore.ieee.org/document/9981045" style="text-decoration: none; color: inherit;">
-     <h3>Nonlinear model predictive control for human-robot handover with application to the aerial case</h3>
-     <p> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022</p>
-      </a>
-
-
-</div>
-
-<div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
-    <img src="/images/heterogeneous_NMPC.png" alt="Project Image 2" style="width: 70%;">
-     <a href="https://ieeexplore.ieee.org/document/9682606" style="text-decoration: none; color: inherit;">
-     <h3>Motor-level N-MPC for cooperative active perception with multiple heterogeneous UAVs</h3>
-     <p>IEEE Robotics and Automation Letters, 2022 </p>
-     </a>
-
-</div>
-</div>
-</div>
-
-
-<div style="border: 1px solid #ccc;  border-top: 1px solid #ccc;  border-bottom: 1px solid #ccc;">
-<div style="display: flex;">
-<div style="flex: 50%; padding: 10px; border-right: 1px solid #ccc;">
-    <img src="/images/ECC_photo.png" alt="Project Image 1" style="width: 100%;">
-         <a href="https://ieeexplore.ieee.org/document/9654927" style="text-decoration: none; color: inherit;">  
-    <h3>Incremental Nonlinear Dynamic Inversion Control of Long-Stroke Pneumatic Actuators</h3>
-    <p> European Control Conference (ECC), 2021</p>
-         </a>
-
-</div>
-
-<div style="flex: 50%; padding: 10px; border-left: 1px solid #ccc;">
-    <img src="/images/landing.png" alt="Project Image 2" style="width: 75%;">
-       <a href="https://www.sciencedirect.com/science/article/pii/S2405896318302428" style="text-decoration: none; color: inherit;">
-   <h3>Bio-inspired Landing of Quadrotor using Improved State Estimation</h3>
-    <p>IFAC International Conference on Advances in Control and Optimization of Dynamical Systems, 2018</p>
-       </a>
-
-</div>
-</div>
-</div>
-
-<br>
+<script>
+document.querySelectorAll('.pubs-selected').forEach(function (root) {
+  root.addEventListener('click', function (e) {
+    var tog = e.target.closest('[data-toggle]');
+    if (tog) {
+      var pub = tog.closest('.pub');
+      var panel = pub.querySelector('[data-panel="' + tog.dataset.toggle + '"]');
+      var open = !panel.classList.contains('open');
+      pub.querySelectorAll('.pub-extra').forEach(function (p) { p.classList.remove('open'); });
+      pub.querySelectorAll('[data-toggle]').forEach(function (b) { b.setAttribute('aria-expanded', 'false'); });
+      if (open) { panel.classList.add('open'); tog.setAttribute('aria-expanded', 'true'); }
+    }
+    if (e.target.classList.contains('more')) { e.target.previousElementSibling.hidden = false; e.target.remove(); }
+    if (e.target.classList.contains('copy')) {
+      var txt = e.target.nextElementSibling.textContent;
+      navigator.clipboard.writeText(txt).then(function () { e.target.textContent = 'Copied'; setTimeout(function () { e.target.textContent = 'Copy'; }, 1500); });
+    }
+  });
+});
+</script>
 
 Experience
 ======
@@ -148,5 +68,5 @@ Experience
 Education
 ======
 - **PhD in Aerial Robotics and Control** from Vienna University of Technology, Austria (2022 - Present)
-- **Master of Science in Aerospace Enginnering** from Delft University of Technology, The Netherlannds (2018 - 2020)
+- **Master of Science in Aerospace Engineering** from Delft University of Technology, The Netherlands (2018 - 2020)
 - **Bachelor of Science in Electrical Engineering** from National Institute of Technology, Silchar, India (2012 - 2016)

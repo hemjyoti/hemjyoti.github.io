@@ -14,81 +14,7 @@ author_profile: true
 {% capture all_topics %}{% for p in pubs %}{% for t in p.topics %}{{ t }}|{% endfor %}{% endfor %}{% endcapture %}
 {% assign topics = all_topics | split: "|" | uniq | sort %}
 
-<style>
-  .pubs { --accent: #b509ac; --line: #e3e3e3; --muted: #8a8f94; --ink: #222; }
-  .pubs-intro { margin: 0 0 1.2em; }
-  .pubs-intro a { color: var(--accent); text-decoration: none; }
-
-  .pub-filters {
-    display: flex; flex-wrap: wrap; align-items: center; gap: .6em 1.4em;
-    border: 1px solid var(--line); border-radius: 14px; padding: .8em 1.1em; margin-bottom: 1.6em;
-  }
-  .pub-filters .grp { display: flex; align-items: center; gap: .55em; }
-  .pub-filters label { font-weight: 700; font-size: .8em; letter-spacing: .02em; color: var(--ink); margin: 0; }
-  .pub-filters select {
-    appearance: none; -webkit-appearance: none; font: inherit; font-size: .85em; color: var(--ink);
-    border: 1px solid var(--line); border-radius: 999px; padding: .38em 2.1em .38em 1em; margin: 0; width: auto;
-    background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0h10L5 6z' fill='%23b509ac'/%3E%3C/svg%3E") no-repeat right .9em center;
-    cursor: pointer;
-  }
-  .pub-filters .sort-btn {
-    font: inherit; font-size: .85em; border: 1px solid var(--line); background: #fff; color: var(--ink);
-    border-radius: 999px; padding: .38em 1.1em; cursor: pointer; transition: background .15s, color .15s;
-  }
-  .pub-filters .sort-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
-  .pub-count { font-size: .8em; color: var(--muted); margin: -1em 0 1em; }
-
-  .pub { display: flex; gap: 1.6em; padding: 1.4em 0; border-top: 1px solid var(--line); }
-  .pub:first-of-type { border-top: 0; }
-  .pub-thumb { flex: 0 0 210px; }
-  .pub-thumb img, .pub-thumb video {
-    width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block; background: #fff;
-    border-radius: 6px; box-shadow: 0 2px 10px rgba(0,0,0,.14);
-  }
-  .pub-thumb img.contain { object-fit: contain; padding: 6px; }
-  .pub-thumb .placeholder {
-    aspect-ratio: 4 / 3; border-radius: 6px; box-shadow: 0 2px 10px rgba(0,0,0,.14);
-    display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .2em;
-    background: linear-gradient(135deg, #f7e8f6, #e9eef5); color: #6b4f6a; font-weight: 700;
-  }
-  .pub-thumb .placeholder span { font-size: .75em; font-weight: 400; color: var(--muted); }
-
-  .pub-body { flex: 1; min-width: 0; }
-  .pub-title { font-size: 1.02em; font-weight: 700; line-height: 1.35; margin: 0 0 .3em; }
-  .pub-title a { color: var(--ink); text-decoration: none; }
-  .pub-title a:hover { color: var(--accent); }
-  .pub-authors { font-size: .9em; margin: 0; }
-  .pub-authors .me { font-weight: 700; text-decoration: underline; text-underline-offset: 2px; }
-  .pub-authors .more { color: var(--muted); cursor: pointer; border: 0; background: none; padding: 0; font: inherit; }
-  .pub-authors .more:hover { color: var(--accent); }
-  .pub-venue { font-size: .9em; margin: .35em 0 .7em; padding-top: .35em; border-top: 1px dashed #c8c8c8; }
-  .pub-venue em { color: var(--ink); }
-
-  .pub-links { display: flex; flex-wrap: wrap; gap: .45em; margin-bottom: .6em; }
-  .pub-links a, .pub-links button {
-    font: inherit; font-size: .68em; letter-spacing: .04em; text-transform: uppercase; text-decoration: none;
-    color: var(--ink); background: #fff; border: 1px solid #333; border-radius: 3px; padding: .45em 1.3em; cursor: pointer;
-    transition: background .15s, color .15s;
-  }
-  .pub-links a:hover, .pub-links button:hover, .pub-links button[aria-expanded="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
-
-  .scholar-badge { display: inline-flex; font-size: .78em; line-height: 1; border-radius: 3px; overflow: hidden; text-decoration: none !important; }
-  .scholar-badge span { padding: .4em .5em; }
-  .scholar-badge .l { background: #e6e6e6; color: #333; display: inline-flex; align-items: center; gap: .35em; }
-  .scholar-badge .r { background: #4285f4; color: #fff; font-weight: 600; }
-
-  .pub-extra { display: none; margin-top: .8em; font-size: .85em; }
-  .pub-extra.open { display: block; }
-  .pub-abs { border-left: 3px solid var(--accent); padding: .2em 0 .2em .9em; color: #444; }
-  .pub-bib { position: relative; }
-  .pub-bib pre { margin: 0; font-size: .82em; white-space: pre-wrap; word-break: break-word; }
-  .pub-bib .copy { position: absolute; top: .4em; right: .4em; font-size: .75em; border: 1px solid var(--line); background: #fff; border-radius: 3px; padding: .2em .6em; cursor: pointer; }
-
-  @media (max-width: 640px) {
-    .pub { flex-direction: column; gap: .9em; }
-    .pub-thumb { flex-basis: auto; max-width: 320px; }
-  }
-</style>
+{% include pub-styles.html %}
 
 <div class="pubs">
   {% if site.author.googlescholar %}
@@ -120,48 +46,7 @@ author_profile: true
 
   <div id="pub-list">
   {% for p in pubs %}
-    {% assign year = p.date | date: "%Y" %}
-    {% assign author_list = p.authors | split: ", " %}
-    <article class="pub" data-year="{{ p.date | date: '%Y%m%d' }}" data-cites="{{ p.citations | default: 0 }}"
-             data-venue="{{ p.venue_short }}" data-topics="{{ p.topics | join: '|' }}">
-      <div class="pub-thumb">
-        {% if p.thumbnail_video %}
-          <video src="{{ base_path }}/videos/{{ p.thumbnail_video }}.mp4" poster="{{ base_path }}/videos/{{ p.thumbnail_video }}.jpg"
-                 autoplay muted loop playsinline preload="metadata"></video>
-        {% elsif p.thumbnail %}
-          <img src="{{ base_path }}{{ p.thumbnail }}" alt="" loading="lazy" class="contain">
-        {% else %}
-          <div class="placeholder">{{ p.venue_short }}<span>{{ year }}</span></div>
-        {% endif %}
-      </div>
-
-      <div class="pub-body">
-        <h3 class="pub-title">
-          {% if p.paperurl %}<a href="{{ p.paperurl }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}
-        </h3>
-        <p class="pub-authors">
-          {% for a in author_list %}{% capture name %}{% if a == "Hemjyoti Das" %}<span class="me">{{ a }}</span>{% elsif a == "Hemjyoti Das et al." %}<span class="me">Hemjyoti Das</span> et al.{% else %}{{ a }}{% endif %}{% endcapture %}{% if author_list.size > 4 and forloop.index == 4 %}<span class="rest" hidden>{% endif %}{% if forloop.last and forloop.length > 1 %}and {% endif %}{{ name }}{% unless forloop.last %}{% if forloop.length == 2 %} {% else %}, {% endif %}{% endunless %}{% if author_list.size > 4 and forloop.last %}</span>{% assign hidden_n = author_list.size | minus: 3 %} <button type="button" class="more">and {{ hidden_n }} more author{% if hidden_n > 1 %}s{% endif %}</button>{% endif %}{% endfor %}
-        </p>
-        <p class="pub-venue">{% if p.status %}<em>{{ p.status }}</em>{% else %}<em>In {{ p.venue | remove: "(To Appear) " }}</em>, {{ year }}{% endif %}</p>
-
-        <div class="pub-links">
-          {% if p.excerpt != "" %}<button type="button" data-toggle="abs">Abs</button>{% endif %}
-          {% if p.bibtex != "" %}<button type="button" data-toggle="bib">Bib</button>{% endif %}
-          {% if p.paperurl %}<a href="{{ p.paperurl }}">Paper</a>{% endif %}
-          {% if p.arxiv %}<a href="{{ p.arxiv }}">arXiv</a>{% endif %}
-          {% if p.code %}<a href="{{ p.code }}">Code</a>{% endif %}
-        </div>
-
-        {% if p.citations %}
-          <a class="scholar-badge" href="{{ p.scholar_url | default: site.author.googlescholar }}" title="Citations on Google Scholar">
-            <span class="l"><svg width="12" height="12" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285f4" d="M12 2 1 9l11 7 9-5.7V17h2V9z"/><path fill="#4285f4" d="M5 13.2V17c0 1.7 3.1 3 7 3s7-1.3 7-3v-3.8L12 18z"/></svg>scholar</span><span class="r">{{ p.citations }}</span>
-          </a>
-        {% endif %}
-
-        <div class="pub-extra pub-abs" data-panel="abs">{{ p.excerpt | strip_html }}</div>
-        <div class="pub-extra pub-bib" data-panel="bib"><button type="button" class="copy">Copy</button><pre>{{ p.bibtex | escape }}</pre></div>
-      </div>
-    </article>
+    {% include pub-card.html %}
   {% endfor %}
   </div>
 </div>
