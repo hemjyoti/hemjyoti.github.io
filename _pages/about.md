@@ -9,18 +9,6 @@ redirect_from:
 
 Hi there! I am a final-year PhD student working at the [Robotics Systems Lab](https://www.acin.tuwien.ac.at/en/robotic-systems-lab/), under the supervision of [Prof. Christian Ott](https://www.acin.tuwien.ac.at/en/staff/cott/). My work focuses on developing passivity-based controllers for suspended aerial robots. My primary goal is utilizing underactuated aerial systems for task-prioritization tasks such as physical aerial interaction with an unknown environment. I am also interested in applying data-driven techniques to augment model-based whole body controllers (WBC).  Previously, I worked with [Prof. Antonio Franchi](https://homepages.laas.fr/afranchi/robotics/?q=front_page) as a research engineer on aerial manipulation. I completed a MSc in Aerospace Engineering from the Delft University of Technology, with a specialization in control and simulation. 
 
-News
-======
-- **Jan, 2024 :** My article got accepted for ICRA 2024 !
-- **Oct, 2023 :** I gave a talk at the Intelligent Robotics Seminar, TU Wien.
-- **April, 2023 :** I gave a talk at the Intelligent Robotics Seminar, TU Wien.
-- **June, 2023 :** My article got accepted for IROS 2023 !
-- **Nov, 2022 :** I gave a talk at the Intelligent Robotics Seminar, TU Wien.
-- **Aug, 2022 :** I joned as a Phd student at [Robotics Systems Lab](https://www.acin.tuwien.ac.at/en/robotic-systems-lab/).
-- **June, 2022 :** My article got accepted for IROS 2022 !
-- **Jan, 2022 :** My article got accepted for RAL and ICRA 2022 !
-- **Feb, 2021 :** My article got accepted for ECC 2021!
-
 Selected Publications
 ======
 
