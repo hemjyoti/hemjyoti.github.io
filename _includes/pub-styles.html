@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap">
 <style>
   .pubs { --accent: #b509ac; --line: #e3e3e3; --muted: #8a8f94; --ink: #222; }
   .pubs-intro { margin: 0 0 1.2em; }
@@ -22,44 +23,38 @@
   .pub-filters .sort-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
   .pub-count { font-size: .8em; color: var(--muted); margin: -1em 0 1em; }
 
-  .pub { display: flex; gap: 1.6em; padding: 1.4em 0; border-top: 1px solid var(--line); }
-  .pub:first-of-type { border-top: 0; }
-  .pub-thumb { flex: 0 0 210px; }
+  .pub, .pubs-intro, .pub-count { font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .pub { display: flex; align-items: flex-start; gap: 2.2em; padding: 1.8em 0; }
+  .pub-thumb { flex: 0 0 260px; }
   .pub-thumb img, .pub-thumb video {
-    width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block; background: #fff;
-    border-radius: 6px; box-shadow: 0 2px 10px rgba(0,0,0,.14);
+    width: 100%; height: auto; max-height: 300px; object-fit: contain; display: block; background: #fff;
+    border-radius: 4px; box-shadow: 0 3px 12px rgba(0,0,0,.22);
   }
-  .pub-thumb img.contain { object-fit: contain; padding: 6px; }
   .pub-thumb .placeholder {
-    aspect-ratio: 4 / 3; border-radius: 6px; box-shadow: 0 2px 10px rgba(0,0,0,.14);
+    aspect-ratio: 4 / 3; border-radius: 4px; box-shadow: 0 3px 12px rgba(0,0,0,.22);
     display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .2em;
-    background: linear-gradient(135deg, #f7e8f6, #e9eef5); color: #6b4f6a; font-weight: 700;
+    background: linear-gradient(135deg, #f7e8f6, #e9eef5); color: #6b4f6a; font-weight: 500;
   }
   .pub-thumb .placeholder span { font-size: .75em; font-weight: 400; color: var(--muted); }
 
-  .pub-body { flex: 1; min-width: 0; }
-  .pub-title { font-size: 1.02em; font-weight: 700; line-height: 1.35; margin: 0 0 .3em; }
-  .pub-title a { color: var(--ink); text-decoration: none; }
+  .pub-body { flex: 1; min-width: 0; padding-top: .2em; }
+  .pub-title { font-size: 1.12em; font-weight: 400; line-height: 1.35; margin: 0 0 .35em; color: #111; }
+  .pub-title a { color: #111; text-decoration: none; }
   .pub-title a:hover { color: var(--accent); }
-  .pub-authors { font-size: .9em; margin: 0; }
-  .pub-authors .me { font-weight: 700; text-decoration: underline; text-underline-offset: 2px; }
-  .pub-authors .more { color: var(--muted); cursor: pointer; border: 0; background: none; padding: 0; font: inherit; }
-  .pub-authors .more:hover { color: var(--accent); }
-  .pub-venue { font-size: .9em; margin: .35em 0 .7em; padding-top: .35em; border-top: 1px dashed #c8c8c8; }
-  .pub-venue em { color: var(--ink); }
+  .pub-authors { font-size: 1em; font-weight: 300; color: #222; margin: 0 0 .35em; }
+  .pub-authors .me { font-weight: 500; }
+  .pub-authors .more { color: var(--muted); cursor: pointer; border: 0; border-bottom: 1px dashed #aaa; background: none; padding: 0; font: inherit; }
+  .pub-authors .more:hover { color: var(--accent); border-color: var(--accent); }
+  .pub-venue { font-size: 1em; font-weight: 300; color: #222; margin: 0 0 1em; }
+  .pub-venue em { color: #222; }
 
-  .pub-links { display: flex; flex-wrap: wrap; gap: .45em; margin-bottom: .6em; }
+  .pub-links { display: flex; flex-wrap: wrap; gap: .9em; margin-bottom: .6em; }
   .pub-links a, .pub-links button {
-    font: inherit; font-size: .68em; letter-spacing: .04em; text-transform: uppercase; text-decoration: none;
-    color: var(--ink); background: #fff; border: 1px solid #333; border-radius: 3px; padding: .45em 1.3em; cursor: pointer;
+    font-family: inherit; font-size: .72em; font-weight: 400; letter-spacing: .03em; text-transform: uppercase; text-decoration: none;
+    color: #222; background: #fff; border: 1px solid #222; border-radius: 3px; padding: .75em 1.9em; cursor: pointer;
     transition: background .15s, color .15s;
   }
   .pub-links a:hover, .pub-links button:hover, .pub-links button[aria-expanded="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
-
-  .scholar-badge { display: inline-flex; font-size: .78em; line-height: 1; border-radius: 3px; overflow: hidden; text-decoration: none !important; }
-  .scholar-badge span { padding: .4em .5em; }
-  .scholar-badge .l { background: #e6e6e6; color: #333; display: inline-flex; align-items: center; gap: .35em; }
-  .scholar-badge .r { background: #4285f4; color: #fff; font-weight: 600; }
 
   .pub-extra { display: none; margin-top: .8em; font-size: .85em; }
   .pub-extra.open { display: block; }

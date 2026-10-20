@@ -36,11 +36,6 @@ author_profile: true
         {% for t in topics %}{% if t != "" %}<option value="{{ t }}">{{ t }}</option>{% endif %}{% endfor %}
       </select>
     </div>
-    <div class="grp">
-      <label>SORT:</label>
-      <button type="button" class="sort-btn active" data-sort="year">Year</button>
-      <button type="button" class="sort-btn" data-sort="cites">Most cited</button>
-    </div>
   </div>
   <p class="pub-count" id="pub-count"></p>
 
