@@ -47,7 +47,7 @@ Education
 ======
 - PhD in Aerial Robotics and Control from Vienna University of Technology, Austria (2022 - Present)
 - Master of Science in Aerospace Engineering from Delft University of Technology, The Netherlands (2018 - 2020)
-- Bachelor of Science in Electrical Engineering from National Institute of Technology, Silchar, India (2012 - 2016)
+- Bachelor of Technology (B.Tech) in Electrical Engineering from National Institute of Technology, Silchar, India (2012 - 2016)
 
 Experience
 ======
