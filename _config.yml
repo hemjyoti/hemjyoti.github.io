@@ -25,8 +25,8 @@ author:
   name             : "Hemjyoti Das"
   pronouns         : # example: "she/her"  
   bio              :
-  location         : "Vienna, Austria"
-  employer         : "Vienna University of Technology"
+  location         :
+  employer         :
   uri              : # URL
   email            : "das@acin.tuwien.ac.at" 
 
