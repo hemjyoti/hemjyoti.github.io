@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a final-year PhD student working at the [Robotics Systems Lab](https://www.acin.tuwien.ac.at/en/robotic-systems-lab/), under the supervision of [Prof. Christian Ott](https://www.acin.tuwien.ac.at/en/staff/cott/). My research focuses on the control of underactuated aerial robots, in particular suspended aerial manipulators, for agile maneuvers and safe physical interaction with unknown environments. I combine optimization-based, task-prioritized whole-body control and passivity-based methods with residual reinforcement learning, and validate them in real-world experiments.  Previously, I worked with [Prof. Antonio Franchi](https://homepages.laas.fr/afranchi/robotics/?q=front_page) as a research engineer on aerial manipulation. I completed a MSc in Aerospace Engineering from the Delft University of Technology, with a specialization in control and simulation. 
+Hi there! I am a final-year PhD student working at the [Robotics Systems Lab](https://www.acin.tuwien.ac.at/en/robotic-systems-lab/), under the supervision of [Prof. Christian Ott](https://www.acin.tuwien.ac.at/en/staff/cott/). My research focuses on the control of suspended underactuated aerial manipulation robots for safe physical interaction with unknown environments. I combine optimization-based control methods with residual learning techniques.  Previously, I worked with [Prof. Antonio Franchi](https://homepages.laas.fr/afranchi/robotics/?q=front_page) as a research engineer on aerial manipulation. I completed a MSc in Aerospace Engineering from the Delft University of Technology, with a specialization in control and simulation. 
 
 Selected Publications
 ======
