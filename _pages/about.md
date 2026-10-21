@@ -43,18 +43,16 @@ document.querySelectorAll('.pubs-selected').forEach(function (root) {
 });
 </script>
 
-Experience
-======
--  **PhD Researcher** at Vienna University of Technology, Austria (2022 - Present)
--  **Research Engineer** at University of Twente, The Netherlands (2020 - 2022)
--  **Research Internship** at German Aerospace Center (DLR), Germany (2019)
--  **Project Engineer** at Indian Institute of Science, India (2017-2018)
--  **Project Engineer** at Indian Institute of Technology, Bombay, India (2016)
-
-
-
 Education
 ======
-- **PhD in Aerial Robotics and Control** from Vienna University of Technology, Austria (2022 - Present)
-- **Master of Science in Aerospace Engineering** from Delft University of Technology, The Netherlands (2018 - 2020)
-- **Bachelor of Science in Electrical Engineering** from National Institute of Technology, Silchar, India (2012 - 2016)
+- PhD in Aerial Robotics and Control from Vienna University of Technology, Austria (2022 - Present)
+- Master of Science in Aerospace Engineering from Delft University of Technology, The Netherlands (2018 - 2020)
+- Bachelor of Science in Electrical Engineering from National Institute of Technology, Silchar, India (2012 - 2016)
+
+Experience
+======
+-  PhD Researcher at Vienna University of Technology, Austria (2022 - Present)
+-  Research Engineer at University of Twente, The Netherlands (2020 - 2022)
+-  Research Internship at German Aerospace Center (DLR), Germany (2019)
+-  Project Engineer at Indian Institute of Science, India (2017-2018)
+-  Project Engineer at Indian Institute of Technology, Bombay, India (2016)
