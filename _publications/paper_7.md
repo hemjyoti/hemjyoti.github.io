@@ -12,7 +12,7 @@ authors: 'Martin Jacquet, Max Kivits, Hemjyoti Das, Antonio Franchi'
 topics: ['Optimal control & MPC', 'Perception & estimation']
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9682606'
 code: 'https://redmine.laas.fr/projects/active-perception-nmpc'
-thumbnail: '/images/heterogeneous_NMPC.png'
+thumbnail_video: 'RAL22_NMPC_perception'
 citations: 26
 scholar_url: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B1NyZ9IAAAAJ&pagesize=100&citation_for_view=B1NyZ9IAAAAJ:O3NaXMp0MMsC'
 bibtex: |
