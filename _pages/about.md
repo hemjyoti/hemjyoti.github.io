@@ -10,9 +10,12 @@ redirect_from:
 <style>
   p.bio a { color: inherit !important; text-decoration: underline dotted #9aa0a6 !important; text-underline-offset: 3px; }
   p.bio a:hover { text-decoration: underline solid currentColor !important; }
+  ul.cv-list { list-style: none; margin-left: 0; padding-left: 0; }
+  ul.cv-list li { display: flex; justify-content: space-between; gap: 1.5em; }
+  ul.cv-list .cv-years { white-space: nowrap; color: #666; }
 </style>
 
-I am a final-year PhD student working at the [Robotics Systems Lab](https://www.acin.tuwien.ac.at/en/robotic-systems-lab/), TU Wien, under the supervision of [Prof. Christian Ott](https://www.acin.tuwien.ac.at/en/staff/cott/). My research focuses on combining **optimization-based control** with **reinforcement learning** to enable safe physical interaction of underactuated **aerial manipulators** in uncertain environments.  Previously, I was a research engineer in [Prof. Antonio Franchi](https://homepages.laas.fr/afranchi/robotics/?q=front_page)'s group at the University of Twente, working on model predictive control for aerial-robotic systems. I completed a MSc in Aerospace Engineering from the Delft University of Technology, with a specialization in control and simulation. 
+I am a final-year PhD student working at the [Robotics Systems Lab](https://www.acin.tuwien.ac.at/en/robotic-systems-lab/), TU Wien, under the supervision of [Prof. Christian Ott](https://www.acin.tuwien.ac.at/en/staff/cott/). My research focuses on combining **optimization-based control** with **reinforcement learning** to enable safe physical interaction of underactuated **aerial manipulators** in uncertain environments.  Previously, I was a research engineer in [Prof. Antonio Franchi](https://people.utwente.nl/a.franchi)'s group at the University of Twente, working on model predictive control for aerial-robotic systems. I completed a MSc in Aerospace Engineering from the Delft University of Technology, with a specialization in control and simulation. 
 {: .bio}
 
 Selected Publications
@@ -51,9 +54,11 @@ document.querySelectorAll('.pubs-selected').forEach(function (root) {
 
 Education
 ======
-- Ph.D in Electrical Engineering from Vienna University of Technology, Austria (2022 - Present)
-- M.Sc in Aerospace Engineering from Delft University of Technology, The Netherlands (2018 - 2020)
-- B.Tech in Electrical Engineering from National Institute of Technology, Silchar, India (2012 - 2016)
+<ul class="cv-list">
+  <li><span>Ph.D in Electrical Engineering from Vienna University of Technology, Austria</span><span class="cv-years">2022 – Present</span></li>
+  <li><span>M.Sc in Aerospace Engineering from Delft University of Technology, The Netherlands</span><span class="cv-years">2018 – 2020</span></li>
+  <li><span>B.Tech in Electrical Engineering from National Institute of Technology, Silchar, India</span><span class="cv-years">2012 – 2016</span></li>
+</ul>
 
 Experience
 ======
